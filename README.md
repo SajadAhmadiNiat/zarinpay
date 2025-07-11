@@ -39,6 +39,8 @@ Unity Zarinpal Directional Payment
 ---
 
 ## 🎬 آموزش و راهنما
+- **فایل کامل مستندات بصورت pdf:**  
+  [https://github.com/SajadAhmadiNiat/zarinpay/blob/main/Zarinpay%20Docs.pdf](https://github.com/SajadAhmadiNiat/zarinpay/blob/main/Zarinpay%20Docs.pdf)
 
 - **آموزش کامل و ویدیویی راه‌اندازی گام به گام پلاگین در یونیتی:**  
   [gamescience.ir/product/zarinpay](https://gamescience.ir/product/zarinpay)
@@ -61,6 +63,7 @@ Unity Zarinpal Directional Payment
 <summary>راهنمای گام به گام کامل (کلیک کنید)</summary>
 فایل مستندات:
 👉 [https://github.com/SajadAhmadiNiat/zarinpay/blob/main/Zarinpay%20Docs.pdf](https://github.com/SajadAhmadiNiat/zarinpay/blob/main/Zarinpay%20Docs.pdf)
+  
 برای دسترسی به پنل کامل آموزش، مستندات و دریافت به‌روزرسانی‌ها وارد لینک شوید:  
 👉 [gamescience.ir/product/zarinpay](https://gamescience.ir/product/zarinpay)
 </details>
