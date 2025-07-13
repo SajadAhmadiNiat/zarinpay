@@ -1,7 +1,0 @@
-   {
-     "name": "ir.nasim-mehr.zarinpay",
-     "version": "1.0.0",
-     "displayName": "ZarinPay",
-     "description": "Direct payment plugin with ZarrinPal in Unity",
-     "icon": "icon.png"
-   }
